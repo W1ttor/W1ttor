@@ -22,9 +22,6 @@
 
 ###
 
-<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp4eGUzMGJ6d251OXVqMm15dmZhN21pZ3M1djBzcmZhdWd4cDFscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/W1ttor/W1ttor/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
@@ -37,11 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W1ttor/W1ttor/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/W1ttor/W1ttor/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=71&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
 ###
